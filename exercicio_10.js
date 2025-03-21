@@ -1,4 +1,4 @@
-let letra = "e"
+let letra = "a"
 
 switch (letra) {
     case "a":
