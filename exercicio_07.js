@@ -1,5 +1,6 @@
 let metros = 100;
 let unidade = "cm";
+
 switch (unidade) {
     case "cm": 
         console.log(`A conversão resulta em ${metros * 100} centímetros`); 
