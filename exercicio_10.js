@@ -1,23 +1,23 @@
 let vogal = "a"
 
 switch (vogal) {
-    case "a": 
-        console.log("É Uma vogal"); 
+    case "a":
+        console.log("É Uma vogal");
         break;
-    case "e": 
-        console.log("É Uma vogal"); 
+    case "e":
+        console.log("É Uma vogal");
         break;
-    case "i": 
-        console.log("É Uma vogal"); 
+    case "i":
+        console.log("É Uma vogal");
         break;
-    case "o": 
-        console.log("É Uma vogal"); 
+    case "o":
+        console.log("É Uma vogal");
         break;
-    case "u": 
-        console.log("É Uma vogal"); 
+    case "u":
+        console.log("É Uma vogal");
         break;
 
-    default: 
+    default:
         console.log("Não é uma vogal");
 }
 // Gustavo Teixeira Lisboa
