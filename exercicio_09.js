@@ -15,4 +15,6 @@ switch (true) {
         break;
     default: 
         console.log("Nota inválida!");
-}   
+}
+// Gustavo Teixeira Lisboa
+// 21/03/2025 10:00

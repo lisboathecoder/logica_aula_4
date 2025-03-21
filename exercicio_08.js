@@ -13,3 +13,5 @@ switch (num) {
     default: 
     console.log("Escolha inválida!");
 }
+// Gustavo Teixeira Lisboa
+// 21/03/2025 10:00

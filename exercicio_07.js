@@ -13,3 +13,5 @@ switch (unidade) {
     default: 
         console.log(`Unidade inválida`);
 }
+// Gustavo Teixeira Lisboa
+// 21/03/2025 10:00

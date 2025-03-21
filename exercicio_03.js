@@ -15,5 +15,6 @@ switch (estacao) {
     break;
     default: 
         console.log("Estação inválida");
-
 }
+// Gustavo Teixeira Lisboa
+// 21/03/2025 10:00
