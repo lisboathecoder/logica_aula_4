@@ -1,19 +1,24 @@
-let vogal = "a"
+let letra = "e"
 
-switch (vogal) {
+switch (letra) {
     case "a":
+    case "A":
         console.log("É Uma vogal");
         break;
     case "e":
+    case "E":
         console.log("É Uma vogal");
         break;
     case "i":
+    case "I":
         console.log("É Uma vogal");
         break;
     case "o":
+    case "O":
         console.log("É Uma vogal");
         break;
     case "u":
+    case "U":
         console.log("É Uma vogal");
         break;
 
